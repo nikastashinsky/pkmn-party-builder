@@ -5,6 +5,11 @@ A single-file React application that lets you build a Pokémon team and receive 
 <img width="1454" height="1043" alt="Screenshot 2025-11-07 at 11 00 21 AM" src="https://github.com/user-attachments/assets/c9cad025-10cd-4392-869b-5b9b06d3613b" />
 
 
+https://github.com/user-attachments/assets/fc07f4ff-ba9e-4e40-a9ea-c362a73104e2
+
+
+<img width="967" height="875" alt="Screenshot 2025-11-07 at 11 16 24 AM" src="https://github.com/user-attachments/assets/8ace8366-4903-46b2-8a2a-9ee33a1506e5" />
+
 
 ## Features
 
