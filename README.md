@@ -2,6 +2,10 @@
 
 A single-file React application that lets you build a Pokémon team and receive personalized narrative assessments with statistical analysis.
 
+<img width="1454" height="1043" alt="Screenshot 2025-11-07 at 11 00 21 AM" src="https://github.com/user-attachments/assets/c9cad025-10cd-4392-869b-5b9b06d3613b" />
+
+
+
 ## Features
 
 - **Team Building**: Build a team of 6 Pokémon by searching and adding them to slots
